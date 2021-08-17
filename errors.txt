@@ -1,0 +1,3 @@
+/Users/swatiahuja/Desktop/C123++/venv/lib/python3.8/site-packages/sklearn/linear_model/_sag.py:328: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn("The max_iter was reached which means "
+0.9952
